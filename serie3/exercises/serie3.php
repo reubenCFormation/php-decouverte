@@ -18,7 +18,7 @@ function greet($name){
     echo "hello"." ".$name;
 }
 
-//4) A partir de cette fonction, faites en sorte de pouvoir stocker dans une variable EN DEHORS de la fonction la valeur 4 Hint: Pensez a la methode php count
+//4) A partir de cette fonction, faites en sorte de pouvoir stocker dans une variable EN DEHORS de la fonction la valeur 4 Hint: Pensez a la fonction predefini  count
 
 function returnsArrLength($arr){
     // votre code ici

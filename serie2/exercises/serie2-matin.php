@@ -3,9 +3,11 @@
 
 //2) Creer une variable $myName="Reuben". Enchainer des ifs suivi par des else if et enfin suivi par un else. Faites en sorte pour faire que nous allons tomber dans le else
 
-//3) Encore une fois creer une variable $newNumber et cette fois si, faites une comparaison entre $newNumber et un autre numero que vous allez choisir. Faites en sorte d'avoir plusiers conditions qui seront satisfaites et mettez un echo dans chacune de ces conditions mais faites en sorte de n'avoir que un echo qui va reelement s'afficher
+//3) Encore une fois creer une variable $newNumber et cette fois si, faites une comparaison entre $newNumber et un autre numero que vous allez choisir (creer une variable). Faites en sorte d'ecrire plusiers conditions et faites en sorte que au moins deux de ces conditions seront satisfaites
+ //3a) faites en sorte que chaque fois que nous satisfaisons la condition, notre echo sera afficher
+ //3b) ensuite faites en sortes que notre echo ne sera afficher que une fois (hint:pensez aux else if)
 
-//4) Pour chaque index de notre tableau $names, tester si la longeur de notre chaine de caractere est superieur a 5. Si c'est le cas, affichez "conditions rempli!,nous sommes sup a 5!". Sinon, affichez,"Conditions non rempli!"
+//4) Pour chaque index de notre tableau $names, tester si la longeur de notre chaine de caractere est superieur a 5 characteres. Si c'est le cas, affichez "conditions rempli!,nous sommes sup a 5!". Sinon, affichez,"Conditions non rempli!"
 
 $names=["Jeremy","Tom","Reuben","Eli"];
 
