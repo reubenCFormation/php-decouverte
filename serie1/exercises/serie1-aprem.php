@@ -8,7 +8,7 @@ $multiArr=[["myString"=>"a string","myBool"=>false,"myInt"=>25],["myString"=>"an
 
 $shortArr=["first","second","third","fourth","last"];
 
-//3) repeter l'etape 3 mais cette fois ci, ajoutez 2 element au tableau crée et il faut utiliser une valeur dynamique pour afficher le dernier element du tableau (par exemple si le tableau comporte 7 elements, pour le dernier element, il ne faut pas ecrire $monTableau[6]).HINT: pensez a une fonction predefini que affiche le nombre d'elements trouvé dans une tableau
+//3) repeter l'etape 3 mais cette fois ci, ajoutez 2 element au tableau crée et il faut utiliser une valeur dynamique pour afficher le dernier element du tableau (par exemple si le tableau comporte 7 elements, pour le dernier element, il ne faut pas ecrire $monTableau[6]).HINT: pensez a une fonction predefini que affiche le nombre d'elements trouvé dans un tableau
 
 
 
