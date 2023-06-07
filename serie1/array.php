@@ -19,6 +19,7 @@ $students=["Pierre","Benoit","Christophe","Darius","Paul","Guillaume","Reuben","
  */
  
  
+ 
 
 
 
@@ -30,6 +31,7 @@ $students=["Pierre","Benoit","Christophe","Darius","Paul","Guillaume","Reuben","
  */
  
  
+ 
 
 
 
@@ -38,6 +40,8 @@ $students=["Pierre","Benoit","Christophe","Darius","Paul","Guillaume","Reuben","
 echo $students[100];
 echo "<br/>";
 */
+
+
 
 
 
@@ -69,6 +73,7 @@ echo "<br/>";
 
 
 
+
 //3) Les tableaux multidimensionelles 
 
 //----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -76,11 +81,13 @@ echo "<br/>";
 // finalement, on peux aussi avoir un tableau multi-dimensionelle (cette a dire un tableau dans un tableau) Souvent on aura un tableau numerique qui comportera plusiers tableaux associatifs mais ca sera pas forcement le cas
 $studentsAssocMulti=[["name"=>"Benoit","age"=>25,"score"=>17],["name"=>"Pierre","age"=>22,"score"=>16],["name"=>"Toto","age"=>23,"score"=>17]];
 
+
 // ainsi pour acceder au nom du 2eme etudiant dans notre tableau on fera ainsi! 
-/*
+
 echo $studentsAssocMulti[1]["name"];
+echo $studentsAssocMulti[2]["age"];
 echo "<br/>";
-*/
+
 
 
 

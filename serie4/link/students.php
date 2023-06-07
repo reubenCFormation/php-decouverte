@@ -37,7 +37,7 @@
             Ici je peux creer un lien pour aller sur la page des atheltes
         -->
     
-    <a href="./athletes.php" class="btn btn-primary m-5"> Voir les etudiants </button>
+    <a href="./athletes.php" class="btn btn-primary m-5"> Voir les athletes </button>
 
     </body>
 </html>

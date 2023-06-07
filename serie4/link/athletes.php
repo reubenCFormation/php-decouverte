@@ -31,7 +31,7 @@
         <!--
             Ici je peux creer un lien pour aller sur la page des etudiants
         -->
-        <a href="./students.php" class="btn btn-primary m-5"> Voir les athletes </button>
+        <a href="./students.php" class="btn btn-primary m-5"> Voir les etudiants </button>
         
        
        

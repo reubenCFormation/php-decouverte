@@ -16,6 +16,8 @@
     
     
     
+    
+    
 
 //2) Les Types de variables 
   //-----------------------------------------------------------------------------------------------------------------------------------
@@ -31,20 +33,21 @@
  //-----------------------------------------------------------------------------------------------------------------------------------------------
 
  //1) Les chaines de caracters (delimeter par un guillmet d'ouverture et un guillmet de fermeture)
- 
- $myName="Reuben";
  /*
+ $myName="Reuben";
+ 
  echo "<h3> mon nom au debut </h3> <br/>";
  echo $myName;
  */
  
  
  
+ 
 
  // je decide d'utiliser mon nom complet au lieu de mon premon donc je modifier la variable 
-
- $myName="Reuben Chouraki";
 /*
+ $myName="Reuben Chouraki";
+
  echo "<br/>";
 
  echo "<h3> Mon Nom modifié </h3> <br/>";
@@ -52,6 +55,7 @@
 
  echo $myName;
  */
+ 
  
  
  
@@ -78,15 +82,17 @@
  
  
  
+ 
 
  // je decide de rajouter 5 a la valeur stocké dans number 
- 
- $number+=5; //un raccourci pour $number=$number+5
  /*
+ $number+=5; //un raccourci pour $number=$number+5
+ 
  echo "<h3> la valeur de number apres une incremenation de 5  </h3><br/>";
  echo $number;
  echo '<br/>';
  */
+ 
 
  
  
@@ -101,7 +107,7 @@
 
  echo "<h3> la valeur de number apres une decrementation de 5 </h3> <br/>";
  echo $number;
- */
+ 
  
  
  

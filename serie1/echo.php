@@ -14,6 +14,8 @@ echo "<br/>";
 echo "<h2> Je suis encore en train d'ecrire du texte dur, finalement tant que je mets un echo je peux ecrire autant que je veux non? </h2>";
 
 
+
+
 /* 
  Effectivement comme on peux le voir, on peux tres bien faire un echo de autant de choses "en dur" que l'on souhaite
  1)Cependant que se passe t'il si on veux modifier l'une de ces valeurs ecrit en dur ou le re-uiliser dans un autre endroit de notre programme? 
